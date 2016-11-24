@@ -8,7 +8,7 @@
 
 #import "SDWebImageCompat.h"
 
-#if SD_UIKIT
+#if 0
 
 #if COCOAPODS
 @import FLAnimatedImage;
